@@ -9,9 +9,10 @@ srand(time(0)) and rand() for random number generation
 
 printf() and scanf() for input/output
 
-How to Run:
-1.Compile the porgram using a C compiler
-
-2.Run the executable.
-
-3.Follow on-screen instructions to play!
+**How to Run**
+💻 On Windows
+1. Download or clone this repository.
+2. Open **Command Prompt** in the folder.
+3. Compile the program:
+   ```bash
+   gcc main.c -o rps
