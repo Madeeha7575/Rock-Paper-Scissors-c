@@ -3,11 +3,11 @@ This project is a simple Rock-Paper-Scissors game built in C Programming.
 
 it demonstrates the use of:
 
-if-else statements
+=>if-else statements
 
-srand(time(0)) and rand() for random number generation
+=>srand(time(0)) and rand() for random number generation
 
-printf() and scanf() for input/output
+=>printf() and scanf() for input/output
 
 **How to Run**
 💻 On Windows
